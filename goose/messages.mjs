@@ -1,0 +1,9 @@
+export const OP = {
+  UPDATE: 100,
+  OPPONENT_LEFT: 102,
+  REJECTED: 103,
+  DONE: 104,
+  FEEDBACK: 105,
+
+  ROLL_DICE: 200,
+};
