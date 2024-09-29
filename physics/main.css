@@ -1,0 +1,14 @@
+html {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+canvas {
+    border: 1px solid red;
+}
